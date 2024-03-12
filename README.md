@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilmi Balasooriya</h1>
 <p align="left">I'm currently on B.Engineering (Hons) Degree Program at School of Computing, University of Westminster.</p>
-<p align="left> I'm currently learning Mobile Application Development.</p>
+<p align="left"> I'm currently learning Mobile Application Development.</p>
+<p  align="left"> Ask me about OOP, Web Development, Moblie Development </p>
+<p  align="left"> Fun fact- I like to listening music and watching movies, Dancing
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmibalasooriya&label=Profile%20views&color=0e75b6&style=flat" alt="dilmibalasooriya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilmibalasooriya" alt="dilmibalasooriya" /></a> </p>
